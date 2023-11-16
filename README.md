@@ -16,7 +16,7 @@ Make sure you have the required libraries installed. You can install them using:
 `pip install colorgram.py`  
 Replace the "Hirst-spot-painting.png" file with your own image or use the provided image.  
 Run the Python script.  
-`python hirst_painting.py`  
+`python main.py`  
 A Turtle graphics window will open, and the program will draw a grid of randomly colored spots on the screen.  
 Click on the Turtle graphics window to close it.
 
